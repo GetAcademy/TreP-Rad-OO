@@ -42,6 +42,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BoardModel.cs" />
+    <Compile Include="BoardView.cs" />
+    <Compile Include="CellContentType.cs" />
+    <Compile Include="CellModel.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
